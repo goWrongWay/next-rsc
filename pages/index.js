@@ -5,7 +5,7 @@ export default function Page() {
       <h2>Without Streaming</h2>
       <section>
         <a href="/csr" target="_blank">
-          Static + Client Side Data Fetching
+          Static + Client Side Data Fetching 23
         </a>
       </section>
       <section>
